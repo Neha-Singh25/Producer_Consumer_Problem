@@ -11,7 +11,7 @@ This project demonstrates the **Producer-Consumer** problem using Java threads. 
 
 ## 🚀 How to Run
 1. **Compile the Java files**:
-   javac *.java
+    javac *.java
 
 2. **Run the Main class:**:   
     java Main
@@ -25,6 +25,6 @@ This project demonstrates the **Producer-Consumer** problem using Java threads. 
 
 ## 🛠️ Features
 
--Thread synchronization using **`synchronized`** blocks.
--Inter-thread communication using **`wait()`** and **`notify()`**.
+-Thread synchronization using **`synchronized`** blocks.<br>
+-Inter-thread communication using **`wait()`** and **`notify()`**.<br>
 -Simulates continuous production and consumption cycles.    
